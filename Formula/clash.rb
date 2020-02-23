@@ -5,9 +5,9 @@
 class Clash < Formula
   desc "A rule-based tunnel in Go."
   homepage "https://github.com/Dreamacro/clash"
-  url "https://github.com/Dreamacro/clash/releases/download/v0.15.0/clash-darwin-amd64-v0.15.0.gz"
-  version "0.15.0"
-  sha256 "95ac3423af38a61d2444eab1c9ae4a20f803a96166bd0c8fdf9a632540cd2e12"
+  url "https://github.com/Dreamacro/clash/releases/download/TUN/clash-darwin-amd64-v0.18.0-2-ga79f287.gz"
+  version "0.18.0"
+  sha256 "1080b7b3b165731217a003a94e5e40a87ee04424a192d7fd0bb2ab519a513568"
 
 
 

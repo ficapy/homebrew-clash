@@ -6,7 +6,7 @@
 step 1: Add tap
 
 ```bash
-brew tap comwrg/clash
+brew tap ficapy/clash
 ```
 
 step 2: Install clash:
@@ -42,7 +42,7 @@ brew uninstall clash
 step 2: untap formula
 
 ```bash
-brew untap comwrg/clash
+brew untap ficapy/clash
 ```
 
 ------
